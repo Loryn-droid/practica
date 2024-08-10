@@ -2,7 +2,7 @@
 practica de read me
 
 ```npm install react```
-
+sistema 2
 
 
 
